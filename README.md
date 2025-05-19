@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Minhaj Uddin</h1>
-<h3 align="center">A professional web developer, graphic designer, WordPress developer, and UI/UX designer. 😃 I specialize in crafting digital experiences that resonate with users and make an impact. My approach is collaborative—I believe the best work comes from connecting with others and sharing ideas. 🌱 If you're looking for someone who can blend creativity with technical expertise to bring your vision to life. 🤝 let's connect and make something great together! 🌱 I’m currently learning Software Engineering</h3>
+<h3 align="center">A Full-Stack Developer, Android Developer (Flutter & Dart), Graphic Designer, WordPress developer, and UI/UX designer. 😃 I specialize in crafting digital experiences that resonate with users and make an impact. My approach is collaborative—I believe the best work comes from connecting with others and sharing ideas. 🌱 If you're looking for someone who can blend creativity with technical expertise to bring your vision to life. 🤝 let's connect and make something great together! 🌱 I’m currently learning Software Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
