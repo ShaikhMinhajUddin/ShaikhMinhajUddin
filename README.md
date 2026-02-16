@@ -71,9 +71,26 @@ Collaboration, innovation, and continuous learning are at the core of my profess
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
 </a>
 
-<!-- 🗄 Other Databases -->
+<!-- 🗄 Databases -->
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<!-- 🔥 Dev Tools -->
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </a>
 
 <!-- 🎨 Design -->
