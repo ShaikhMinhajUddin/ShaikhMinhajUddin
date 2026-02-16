@@ -30,80 +30,71 @@ Collaboration, innovation, and continuous learning are at the core of my profess
 <p align="left">
 
 <!-- 🌐 Frontend -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+</a>
+
+<!-- ⚙ Backend (MERN Core) -->
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 <!-- 📱 Mobile -->
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<a href="https://reactnative.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
 </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<a href="https://flutter.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<a href="https://dart.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
 </a>
 
-<!-- ⚙ Backend -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- 🗄 Database -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!-- 🗄 Other Databases -->
+<a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
 <!-- 🎨 Design -->
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<a href="https://www.figma.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </a>
-<a href="https://www.photoshop.com/" target="_blank" rel="noreferrer">
+<a href="https://www.photoshop.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
 </a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
 </a>
 
-<!-- 🔐 Programming & Others -->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<!-- 💻 Programming -->
+<a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+<a href="https://isocpp.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </a>
 
